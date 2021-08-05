@@ -1,1 +1,3 @@
 I am brch1
+
+it is new text from branch 1
